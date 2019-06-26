@@ -1,0 +1,5 @@
+#make a list
+
+planets ['mars', 'jupiter', 'venus']
+planets.append('saturn')
+
